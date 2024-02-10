@@ -22,7 +22,7 @@ Using well-structured templates for various documents is essential in pursuing e
 6. SOP for Research Article: Template for developing a statement of purpose (SOP) related to the preparation and submission of research articles.
 7. Submission Checklist: Template for ensuring all necessary components are included before submitting a manuscript for publication.
 
-# Usage
+# Usage/Installation
 To use these templates, simply download the desired template file(s) from the repository and customize them according to your specific requirements. Each template is provided in a standard document format (e.g., .docx) for easy editing using popular word processing software.
 
 # Contributing
