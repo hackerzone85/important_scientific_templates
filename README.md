@@ -1,13 +1,14 @@
-# Scientific Document Templates
+# Important Scientific Document Templates
 Welcome to the Scientific Document Templates repository!
-This repository contains a collection of templates for various documents commonly used in scientific research and publication.
+This repository contains a collection of useful templates for scientific research, writing, and submission. Whether you’re working on a manuscript, preparing a cover letter, or organizing your research, these templates can save you time and ensure consistency.
 
 # Table of Contents
 1. Introduction
 2. Included Templates
-3. Usage
+3. Usage/Installation
 4. Contributing
 5. License
+6. Acknowledgments
 
 # Introduction
 Using well-structured templates for various documents is essential in pursuing efficient and standardized scientific communication. This repository aims to provide researchers with ready-to-use templates for common scientific documents, including author agreement statements, manuscript outlines, cover letters, and more.
@@ -29,3 +30,6 @@ Contributions to this repository are welcome! Feel free to submit a pull request
 
 # License
 This project is licensed under the Creative Commons (CC) Licenses.
+
+# Acknowledgments
+Thank you to the scientific community for sharing knowledge and resources.
